@@ -20,7 +20,6 @@ A Python project that predicts housing prices based on house size using linear r
 ```
 housing-price-predictor/
 ├── README.md 
-├── requirements.txt
 ├── main.py 
 ├── housing_data.csv # Optional dataset (auto-generated if missing)
 └── housing/
@@ -30,6 +29,15 @@ housing-price-predictor/
 ├── model.py 
 └── generate_data.py 
 ```
+
+---
+
+## Requirements
+
+System Requirements:
+
+- Python 3.8 or higher  
+- Compatible with Windows, macOS, or Linux  
 
 ---
 
