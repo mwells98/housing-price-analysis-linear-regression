@@ -28,6 +28,7 @@ housing-price-predictor/
 ├── visualize.py 
 ├── model.py 
 └── generate_data.py 
+```
 
 ---
 
@@ -46,12 +47,14 @@ System Requirements:
 
 ```bash
 git clone <your-repo-url>
-cd housing-price-predictor```
+cd housing-price-predictor
+```
 
 2. Install the required packages:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ---
 
@@ -60,7 +63,8 @@ pip install -r requirements.txt```
 Run the project
 
 ```bash
-python main.py```
+python main.py
+```
 
 - If housing_data.csv does not exist, the program will automatically generate 100 random rows of housing data.
 - The program will print key statistics about the dataset.
@@ -85,7 +89,8 @@ The project uses the following Python libraries:
 All dependencies can be installed using:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ---
 
