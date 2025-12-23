@@ -28,7 +28,6 @@ housing-price-predictor/
 ├── visualize.py 
 ├── model.py 
 └── generate_data.py 
-```
 
 ---
 
